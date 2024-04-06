@@ -1,5 +1,3 @@
 # Blood-Readder-
 
-Nesse projeto estamos usando um sensor de proximidade para conseguirmos saber mais ou menos a media de pessoas que entra em um hospital querendo fazer exames.
-
-Abordamos também números importantes para o nosso projeto do HC 
+O projeto tem como objetivo desenvolver uma inteligência artificial capaz de identificar alterações no sangue dos pacientes para detectar possíveis doenças que já estejam presentes ou que possam surgir futuramente. Isso permitirá aos médicos realizar diagnósticos mais precisos e agir rapidamente, evitando exames desnecessários e atrasos no tratamento. A metodologia adotada foi a análise das alterações no sangue causadas por diferentes doenças, comparando com a composição sanguínea de indivíduos saudáveis. Essa abordagem permite identificar padrões específicos de cada doença, incluindo a contagem glicêmica, que são fundamentais para o diagnóstico precoce e preciso. Ao utilizar a IA para analisar esses padrões de alteração no sangue, os médicos terão uma ferramenta poderosa para realizar exames mais certeiros, tomar decisões mais informadas e agir com rapidez no tratamento dos pacientes. Isso resultará em uma melhoria significativa na eficiência dos cuidados de saúde, beneficiando tanto os pacientes quanto os profissionais médicos.	
